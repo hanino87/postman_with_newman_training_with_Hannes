@@ -70,15 +70,15 @@ pip3 install fastapi uvicorn
 
 To export a collection in Postman, follow these steps:
 
-1. Open Postman and go to the Collections tab on the left sidebar.
+🔸 Step 1: Open Postman and go to the Collections tab on the left sidebar.
 
-2. Find the collection you want to export.
+🔸 Step 2: Find the collection you want to export.
 
-3. Click the three-dot menu (⋮) next to the collection name.
+🔸 Step 3: Click the three-dot menu (⋮) next to the collection name.
 
-4. Select "Export" from the dropdown menu.
+🔸 Step 4: Select "Export" from the dropdown menu.
 
-5. In the export window:
+🔸 Step 5: In the export window:
 
 Choose the export format (typically Collection v2.1 (recommended)).
 Click the "Export" button.
