@@ -1,4 +1,4 @@
-# ✦ Installation and Introduction to Newman with Postman collections✦
+# ✦ Installation and Introduction to Newman & Postman collections✦
 
 Newman is a modern, high-performance command tool that run your Postman collections with their requests outside Postmans GUI. 
 
