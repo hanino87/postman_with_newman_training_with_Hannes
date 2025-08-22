@@ -116,7 +116,7 @@ The server will now be running, typically on http://127.0.0.1:8000.
 
 
 
-## 🔹  Step 5: Run Your Postman Collection with Newman
+## 🔹  Step 5: Run Your Postman Collection with Newman in terminal in directory where Postman Collections are. 
 
 
  ```Shell
